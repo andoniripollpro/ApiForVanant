@@ -1,0 +1,5 @@
+C:\Proy\ApiForVanant\VanantModel\bin\Debug\VanantModel.dll
+C:\Proy\ApiForVanant\VanantModel\bin\Debug\VanantModel.pdb
+C:\Proy\ApiForVanant\VanantModel\obj\Debug\VanantModel.dll
+C:\Proy\ApiForVanant\VanantModel\obj\Debug\VanantModel.pdb
+C:\Proy\ApiForVanant\VanantModel\obj\Debug\VanantModel.csprojResolveAssemblyReference.cache

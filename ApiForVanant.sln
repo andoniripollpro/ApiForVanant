@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiForVanant", "ApiForVanant\ApiForVanant.csproj", "{6F40E84D-E9D8-44FE-8273-2BBB1F57B50A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiForVanant.UnitTest", "ApiForVanant.Test\ApiForVanant.UnitTest.csproj", "{73480DAC-161F-4FD1-82CB-1A3279B18D5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanantDAL", "VanantDAL\VanantDAL.csproj", "{A11D02B4-CBF3-4213-B094-41716B4C6EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VanantModel", "VanantModel\VanantModel.csproj", "{DFF4BF24-C078-4D29-A73B-ED3115924E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiForVanant.IntegrationTest", "ApiForVanant.IntegrationTest\ApiForVanant.IntegrationTest.csproj", "{4C090730-4734-496C-A5FD-35079F1E7A07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F40E84D-E9D8-44FE-8273-2BBB1F57B50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F40E84D-E9D8-44FE-8273-2BBB1F57B50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F40E84D-E9D8-44FE-8273-2BBB1F57B50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F40E84D-E9D8-44FE-8273-2BBB1F57B50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73480DAC-161F-4FD1-82CB-1A3279B18D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73480DAC-161F-4FD1-82CB-1A3279B18D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73480DAC-161F-4FD1-82CB-1A3279B18D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73480DAC-161F-4FD1-82CB-1A3279B18D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11D02B4-CBF3-4213-B094-41716B4C6EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11D02B4-CBF3-4213-B094-41716B4C6EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11D02B4-CBF3-4213-B094-41716B4C6EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11D02B4-CBF3-4213-B094-41716B4C6EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF4BF24-C078-4D29-A73B-ED3115924E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF4BF24-C078-4D29-A73B-ED3115924E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF4BF24-C078-4D29-A73B-ED3115924E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF4BF24-C078-4D29-A73B-ED3115924E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C090730-4734-496C-A5FD-35079F1E7A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C090730-4734-496C-A5FD-35079F1E7A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C090730-4734-496C-A5FD-35079F1E7A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C090730-4734-496C-A5FD-35079F1E7A07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\ApiForVanant.IntegrationTest.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\ApiForVanant.IntegrationTest.pdb
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\obj\Debug\ApiForVanant.IntegrationTest.csprojResolveAssemblyReference.cache
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\obj\Debug\ApiForVanant.IntegrationTest.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\obj\Debug\ApiForVanant.IntegrationTest.pdb
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\ApiForVanant.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\VanantModel.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\Ninject.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\VanantDAL.dll
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\ApiForVanant.pdb
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\VanantModel.pdb
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\Ninject.xml
+C:\Proy\ApiForVanant\ApiForVanant.IntegrationTest\bin\Debug\VanantDAL.pdb

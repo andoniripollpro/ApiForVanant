@@ -1,0 +1,13 @@
+C:\Proy\ApiForVanant\ApiForVanant\obj\Debug\ApiForVanant.csprojResolveAssemblyReference.cache
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\ApiForVanant.dll
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\ApiForVanant.pdb
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\Ninject.dll
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\VanantDAL.dll
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\VanantModel.dll
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\VanantDAL.pdb
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\VanantModel.pdb
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\Ninject.xml
+C:\Proy\ApiForVanant\ApiForVanant\obj\Debug\ApiForVanant.dll
+C:\Proy\ApiForVanant\ApiForVanant\obj\Debug\ApiForVanant.pdb
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\Moq.dll
+C:\Proy\ApiForVanant\ApiForVanant\bin\Debug\Moq.xml
